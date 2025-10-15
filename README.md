@@ -1,1 +1,1 @@
-# Laboratorio-3-Registro-M-dico
+# Laboratorio-3-Registro-Medico
